@@ -1,11 +1,11 @@
 import Quiz from "./components/Quiz";
 
 function App() {
-  return (
-    <div>
-      <Quiz />
-    </div>
-  );
+    return (
+        <div>
+            <Quiz />
+        </div>
+    );
 }
 
 export default App;
